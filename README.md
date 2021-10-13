@@ -3,7 +3,7 @@
 *****************************************************************************
 
 
-# Docker image
+# Docker image link
 
 registry.gitlab.com/ourworkzone/pterodactyl-wordpress
 
@@ -15,7 +15,7 @@ registry.gitlab.com/ourworkzone/pterodactyl-wordpress
 
 
 
-# Docker image
+# Docker image link
 
 
 registry.gitlab.com/ourworkzone/pterodactyl-wordpress-amd64:latest

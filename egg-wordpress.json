@@ -10,7 +10,7 @@
     "description": "Wordpress Egg running on Nginx",
     "features": null,
     "images": [
-        "registry.gitlab.com\/tmunsch\/pterodactyl-wordpress"
+        "registry.gitlab.com\/ourworkzone\/pterodactyl-wordpress"
     ],
     "file_denylist": [],
     "startup": "{{STARTUP_CMD}}",

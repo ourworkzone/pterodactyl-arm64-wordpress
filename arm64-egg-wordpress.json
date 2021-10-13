@@ -4,9 +4,9 @@
         "version": "PTDL_v1",
         "update_url": null
     },
-    "exported_at": "2021-10-13T18:56:20-04:00",
+    "exported_at": "2021-10-13T19:41:26-04:00",
     "name": "Wordpress",
-    "author": "admin@ourworkzone.admin",
+    "author": "accounts@bofanodes.io",
     "description": "WordPress Egg running on Nginx",
     "features": null,
     "images": [

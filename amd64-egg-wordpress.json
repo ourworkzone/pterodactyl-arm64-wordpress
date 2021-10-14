@@ -6,7 +6,7 @@
     },
     "exported_at": "2021-10-13T19:41:26-04:00",
     "name": "Wordpress",
-    "author": "accounts@bofanodes.io",
+    "author": "admin@ourworkzone.admin",
     "description": "WordPress Egg running on Nginx",
     "features": null,
     "images": [

@@ -1,5 +1,7 @@
 wordpress for pterodactyl panel
+
 XenForo for pterodactyl panel
+
 -----------------------------
 # pterodactyl-arm64-wordpress
 # pterodactyl-arm64-XenForo2

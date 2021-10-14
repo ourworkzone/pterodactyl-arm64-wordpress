@@ -5,9 +5,9 @@
         "update_url": null
     },
     "exported_at": "2021-10-13T20:17:57-04:00",
-    "name": "Wordpress",
+    "name": "XenForo2",
     "author": "admin@ourworkzone.admin",
-    "description": "WordPress Egg running on Nginx",
+    "description": "XenForo2 Egg running on Nginx",
     "features": null,
     "images": [
         "registry.gitlab.com\/ourworkzone\/pterodactyl-wordpress-amd64:latest"

@@ -1,3 +1,5 @@
+wordpress for pterodactyl panel
+XenForo for pterodactyl panel
 -----------------------------
 # pterodactyl-arm64-wordpress
 # pterodactyl-arm64-XenForo2
@@ -26,3 +28,5 @@ registry.gitlab.com/ourworkzone/pterodactyl-wordpress-amd64:latest
 
 
 ********************************************************************************
+cradite this wordpress egg fast time made by tmunsch
+https://github.com/tmunsch/Pterodactyl-Wordpress
